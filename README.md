@@ -108,16 +108,3 @@ python ${OpenCOOD}/opencood/tools/inference.py --model_dir ${MODEL_DIR} --fusion
 # Contact
 If you have any questions, feel free to open an issue.
 
-# Citations
-If you find our work useful in your research, feel free to give us a cite:
-```BibTex
-@article{rongsong2025cortsg,
-  title={CoRTSG: A general and effective framework of risky testing scenario generation for cooperative perception in mixed traffic},
-  author={Li, Rongsong and Pei, Xin and Xing, Lu},
-  journal={Accident Analysis \& Prevention},
-  volume={220},
-  pages={108163},
-  year={2025},
-  publisher={Elsevier}
-}
-```
