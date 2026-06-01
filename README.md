@@ -1,7 +1,7 @@
 # <i>CoRTSG-QA: A Large-Scale Autonomous Driving V2X Visual Question Answering Dataset</i>
 <strong>CoRTSG-QA</strong> is a large-scale visual question answering dataset designed for autonomous driving scenarios with Vehicle-to-Everything (V2X) perception. Built upon multi-view camera streams and collaborative perception data, it supports research on joint scene understanding, reasoning about traffic interactions, and answering natural language questions across diverse driving conditions. The dataset enables the development of robust VQA models that can leverage both onboard visual information and cross-vehicle communication to interpret complex road environments, making it a valuable resource for advancing safe and intelligent autonomous systems.
 
-![The CoRTSG framework](./images/CoRTSG.png)
+![The CoRTSG-QA flowchart](images/302ebfe5-e127-49f7-a495-0fdc4ef9bbea.png)
 
 The preprint paper is published [here]().
 
