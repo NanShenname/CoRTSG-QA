@@ -36,7 +36,7 @@ These risky concrete scenarios had been rendered using [CARLA](https://carla.org
 Clone this repo into your local machine and install it:
 ```bash
 cd scripts/
-git clone git@github.com:RadetzkyLi/CoRTSG.git
+https://github.com/NanShenname/CoRTSG-QA.git
 
 cd CoRTSG
 pip install -r requirements.txt
