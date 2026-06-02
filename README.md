@@ -16,7 +16,7 @@ These risky concrete scenarios had been rendered using [CARLA](https://carla.org
 **Stats of Generated Risky Scenarios**
 | Functional scenario | V2X | Map | Triples of (ego, occluders, key occludee) | No. of concrete scenarios |QA|
 | ---------       | ----  | ----   | ---   | ---  | ---- |
-| S1: juncrush    | V2V&I | Town05 | 3762  | 1386 | 3762 |
+| S1: juncrush    | V2V&I | Town05 | 3762  | 1386 | 1369 |
 | S2: segrush     | V2V   | Town03 | 1428  | 729  | 200 |
 | S3: segrush_v2  | V2V   | Town03 | 3057  | 1387 | 1370 |
 | S4: ruralcurve  | V2V   | Town07 | 3657  | 1667 | 200 |
@@ -27,7 +27,7 @@ These risky concrete scenarios had been rendered using [CARLA](https://carla.org
 | S9: overtake    | V2V   | Town01 | 73080 | 656  | 200 |
 | S10: lanechange | V2V   | Town10HD | 37980 | 1392 | 200|
 | S11: onramp     | V2V   | Town06  | 5012 | 2672 | 200 |
-| Overall         |       |        |  |  |  |
+| Overall         |       |        | 285044 | 17490 | 3939 |
 
 # Usage
 
