@@ -108,3 +108,12 @@ python ${OpenCOOD}/opencood/tools/inference.py --model_dir ${MODEL_DIR} --fusion
 # Contact
 If you have any questions, feel free to open an issue.
 
+# Citations
+If you find our work useful in your research, feel free to give us a cite:
+@inproceedings{nanyangchen2026covqa,
+  title={CoVQA: A vision-language framework and benchmark for V2X collaborative driving via visual question answering},
+  author={Nan, Yangchen and Gong, Peize and Li, Chengxiang and Liu, Yue and Zhao, Hongbo and Zhang, Wanyue and Ye, Chenglong and Dai, Xingyuan and Lv, Yisheng},
+  booktitle={Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)},
+  year={2026},
+  note={to be published}
+}
