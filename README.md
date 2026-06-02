@@ -14,20 +14,17 @@ Utilizing traffic crashes in which vision of driver of subejct/ego vehicle is ob
 These risky concrete scenarios had been rendered using [CARLA](https://carla.org/) simulator. One can download them in [OpenDataLab](https://opendatalab.com/Rongsong/CoRTSG) for testing specific cooperative perception algorithms.
 
 **Stats of Generated Risky Scenarios**
-| Functional scenario | V2X | Map | Triples of (ego, occluders, key occludee) | No. of concrete scenarios |
-| ---------       | ----  | ----   | ---   | ---  |
-| S1: juncrush    | V2V&I | Town05 | 3762  | 1386 |
-| S2: segrush     | V2V   | Town03 | 1428  | 729  |
-| S3: segrush_v2  | V2V   | Town03 | 3057  | 1387 |
-| S4: ruralcurve  | V2V   | Town07 | 3657  | 1667 |
-| S5: juncreverse | V2V&I | Town05 | 15246 | 1361 |
-| S6: juncturn    | V2V&I | Town05 | 64008 | 4396 |
-| S7: juncsame    | V2V&I | Town05 | 75600 | 1132 |
-| S8: parkingexit | V2V   | Town07 | 2040  | 712  |
-| S9: overtake    | V2V   | Town01 | 73080 | 656  |
-| S10: lanechange | V2V   | Town10HD | 37980 | 1392 |
-| S11: onramp     | V2V   | Town06  | 5012 | 2672 |
-| Overall         |       |        | 285044 | 17490 |
+| Functional scenario | V2X | Map | Triples of (ego, occluders, key occludee) | No. of concrete scenarios |QA|
+| ---------       | ----  | ----   | ---   | ---  | ---- |
+| S1: juncrush    | V2V&I | Town05 | 3762  | 1386 | 3762 |
+| S2: segrush     | V2V   | Town03 | 1428  | 729  | 200 |
+| S3: segrush_v2  | V2V   | Town03 | 3057  | 1387 | 1370 |
+| S4: ruralcurve  | V2V   | Town07 | 3657  | 1667 | 200 |
+| S8: parkingexit | V2V   | Town07 | 2040  | 712  | 200 |
+| S9: overtake    | V2V   | Town01 | 73080 | 656  | 200 |
+| S10: lanechange | V2V   | Town10HD | 37980 | 1392 | 200|
+| S11: onramp     | V2V   | Town06  | 5012 | 2672 | 200 |
+| Overall         |       |        |  |  |  |
 
 # Usage
 
