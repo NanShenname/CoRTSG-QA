@@ -38,8 +38,9 @@ Clone this repo into your local machine and install it:
 cd scripts/
 https://github.com/NanShenname/CoRTSG-QA.git
 
-cd CoRTSG
+cd CoRTSG-QA
 pip install -r requirements.txt
+pip install transformers accelerate peft bitsandbytes timm qwen-vl-utils einops pillow
 python setup.py develop   # or pip install -e .
 ```
 
